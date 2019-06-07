@@ -30,6 +30,7 @@ divide = a/b;
 subtract = a-b;
 
 print("Addition is :\(add)")
+
 print("multiplication is :\(multiply)")
 print("division is :\(divide)")
 print("subtraction is :\(subtract)")
